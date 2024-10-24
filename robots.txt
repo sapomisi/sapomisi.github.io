@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://sapomisi.github.io/sitemap/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/WLd/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/RSo/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/wln/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/Hlf/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/oVB/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/sfP/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/yYB/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/Tno/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/oSM/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/bFH/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/DGo/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/nRQ/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/udM/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/AiF/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/ZgS/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/EVS/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/imJ/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/jKo/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/VJH/sitemap_index.sapomisi
+Sitemap: https://sapomisi.github.io/ESH/sitemap_index.sapomisi
